@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/MiguelZuluagaa/miguelzuluagaa/main/banner.png)](https://www.linkedin.com/in/luis-miguel-zuluaga/)
 <h1 align="center">Hi, I'm Luis</h1>
-<h3 align="center">A passionate Backend and Frontend developer from Colombia</h3>
+<h3 align="center">Backend and Frontend developer from Colombia</h3>
 
 - 🔭 I’m currently working on **Talent.com**
 - 👨‍💻 I have been working since 2020 as a developer
