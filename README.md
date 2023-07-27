@@ -1,4 +1,4 @@
-[![MasterHead](https://images4.alphacoders.com/130/1307940.png)](https://www.linkedin.com/in/luis-miguel-zuluaga/)
+[![MasterHead](https://raw.githubusercontent.com/MiguelZuluagaa/miguelzuluagaa/main/banner.png)](https://www.linkedin.com/in/luis-miguel-zuluaga/)
 <h1 align="center">Hi, I'm Luis</h1>
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
