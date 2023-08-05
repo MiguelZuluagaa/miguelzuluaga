@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Luis</h1>
 <h3 align="center">Backend and Frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Pragma** as Java Developer
+- 🔭 I’m currently working on **Pragma** as Software Developer
 - 👨‍💻 I have been working since 2020 as a developer
 - 💬 Ask me about **Software, Frameworks, Code, TI**
 
